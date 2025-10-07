@@ -193,3 +193,6 @@ body::-webkit-scrollbar-track{
         margin-top: 20px;
     }
 }   
+.tas{
+    border-radius: 50%;
+}
